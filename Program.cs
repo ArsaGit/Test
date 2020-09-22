@@ -9,6 +9,8 @@ namespace Test
             Console.WriteLine("Test!");
 
             Console.WriteLine("Change1!");
+
+            Console.WriteLine("Change2!");
         }
     }
 }
